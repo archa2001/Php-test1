@@ -11,7 +11,7 @@ if ($conn->connect_error) {
 }
 
 // API details
-$apiKey = "101f940530bf3f97b7d3cb6a33c6ee37"; 
+$apiKey = ""; //please put your open weather api here
 
 // Define an array of cities
 $cities = ["Mumbai", "London", "Tokyo", "Sydney", "Paris"];
